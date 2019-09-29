@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1569506191 source:d:\ccet cs\ccet c ++\periodic table\main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<process.h>
+	<iomanip>
+	<string.h>
+
