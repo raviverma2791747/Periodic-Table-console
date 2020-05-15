@@ -482,7 +482,7 @@ void list_isotope()
         cout<<"**********************************************\n";
         cout<<" Atomic no  Symbol       Name      Mass\n";
         cout<<"**********************************************\n";
-        for(int i=0; i<199-1; ++i)
+        for(int i=0; i<118; ++i)
         {
             if(e[i].ret_isotope()==isotop)
             {
